@@ -83,7 +83,7 @@ def error(update, context):
  
  
 def main():
-    updater = Updater("1196006940:AAHp52ewZcAMEBZFuauIyCyHtwDPBwmBeU8", use_context=True)
+    updater = Updater("1368949563:AAHp5eGyzMKPkbBF0rnboJbHWCr-_QGrE3U", use_context=True)
     dp = updater.dispatcher
  
     dp.add_handler(CommandHandler("start", start))

@@ -1,0 +1,2 @@
+nsetools
+python-telegram-bot
